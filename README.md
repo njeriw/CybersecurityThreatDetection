@@ -1,4 +1,4 @@
-# Detecting Cybersecurity Threats: Deep Learning with Bayesian hyperparameter tuning, Data preprocessing pipelines, Parital dependence plots
+# Detecting Cybersecurity Threats: Deep Learning with Bayesian hyperparameter tuning, Data preprocessing pipelines, SHapley Additive exPlanations
 
 <!-- TABLE OF CONTENTS -->
 <details>
