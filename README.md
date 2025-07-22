@@ -11,6 +11,8 @@
   </ol>
 </details>
 
+![960x0](https://github.com/user-attachments/assets/686bbce6-51ae-4d87-b1f8-90cb002525fa)
+
 ### Introduction 
 This project presents a deep learning solution for Cyber Threat Detection.
 
