@@ -1,4 +1,4 @@
-# Detecting Cybersecurity Threats: Deep Learning with Bayesian hyperparameter tuning and Data preprocessing pipelines
+# Detecting Cybersecurity Threats: Deep Learning with Bayesian Hyperparameter Tuning
 
 <!-- TABLE OF CONTENTS -->
 <details>
